@@ -1,5 +1,10 @@
+import javax.swing.JFrame;
+
 public class App {
     public static void main(String[] args) throws Exception {
-        System.out.println("Hello, World!");
+        int rowCount = 21;
+        int columnCount = 19;
+        int tileSize = 32;
+        int boardSize = columnCount * tileSize;
     }
 }
