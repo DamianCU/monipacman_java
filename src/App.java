@@ -6,5 +6,7 @@ public class App {
         int columnCount = 19;
         int tileSize = 32;
         int boardSize = columnCount * tileSize;
+
+        JFrame frame = new JFrame("Pac Man");
     }
 }
