@@ -87,4 +87,12 @@ public class PacMan extends JPanel{
         pacmanLeftImage = new ImageIcon(getClass().getResource("./img/pacmanLeft.png")).getImage();
         pacmanRightImage = new ImageIcon(getClass().getResource("./img/pacmanRight.png")).getImage();
     }
+
+    public void loadMap(){
+        walls = new HashSet<Block>();
+        foods = new HashSet<Block>();
+        ghosts = new HashSet<Block>();
+
+        for
+    }
 }
