@@ -94,5 +94,37 @@ public class PacMan extends JPanel{
         ghosts = new HashSet<Block>();
 
         for
+        /* lorem
+         * sadasd
+         * adsasda
+         * adasdasdasd
+         * asdasfedsf
+         * asdasdasd
+         * asdasdas
+         * dasd
+         * asda
+         * sda
+         * d
+         * a
+         * da
+         * d
+         * ad
+         * a
+         * sdads
+         * da
+         * s
+         * da
+         * sd
+         * as
+         * da
+         * sd
+         * as
+         * da
+         * d
+         * a
+         * da
+         * d
+         * a
+         */
     }
 }
